@@ -1,17 +1,17 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "热爱生活，热爱编程 "
 header-img: "img/green.jpg"
 ---
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：blog.zongeasy.com](blog.zongeasy.com)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [微博@宗易ZongEasy](http://weibo.com/zongeasy)
 
-- 公众号：zongeasy
+- 公众号：zongeasy_wx
 
 
 

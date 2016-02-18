@@ -1,8 +1,8 @@
 ﻿---
 layout: post
 title: 前端开发规范
-categories: [blog ]
-tags: [开发规范 ]
+categories: [blog]
+tags: [开发规范]
 description: 前端开发规范,Web开发规范
 ---
 

@@ -29,7 +29,7 @@ zhihu_username: zongeasy
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
+highlighter: rouge
 
 gems: [jekyll-paginate]
 permalink: none
